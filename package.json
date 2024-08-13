@@ -2,15 +2,9 @@
   "name": "auction-platform-backend",
   "version": "1.0.0",
   "main": "server.js",
-
   "scripts": {
-  "start": "node server.js"
-},
-
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+    "start": "node server.js"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
